@@ -1,3 +1,5 @@
+> **This repo is archived.** Its approach (an additive "reconcile" merge) has been replaced by a full mirror sync that now lives in my fork of the original project: **[arielangeles/arc2zen](https://github.com/arielangeles/arc2zen)** (fork of [rafcabezas/arc2zen](https://github.com/rafcabezas/arc2zen)). Please use that instead. The mirror keeps Arc's exact tab order, folders, custom tab names, favicons, space icons/colors, and gives each Arc profile its own Zen container.
+
 # arc2zen — Migrate Arc Browser to Zen Browser
 
 A set of Python scripts to migrate your tabs, workspaces, pinned sites, folder structure, workspace icons (emojis), and theme colors from [Arc Browser](https://arc.net/) to [Zen Browser](https://zen-browser.app/).
